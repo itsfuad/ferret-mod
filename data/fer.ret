@@ -9,7 +9,7 @@ version = "0.1.0"
 path = ".ferret/cache"
 
 [remote]
-enabled = false
+enabled = true
 share = true
 
 [dependencies]
