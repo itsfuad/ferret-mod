@@ -1,5 +1,5 @@
-import "ferret-mod/data/mods/constants";
-import "ferret-mod/data/types";
+import "lib-mod/data/mods/constants";
+import "lib-mod/data/types";
 
 let name = types::typeName;
 
