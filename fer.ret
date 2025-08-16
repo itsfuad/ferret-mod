@@ -16,4 +16,4 @@ allow-remote-import = true
 allow-neighbor-import = false
 
 [dependencies]
-github.com/itsfuad/ferret-remote-mod = "v0.0.1"
+github.com/itsfuad/ferret-remote-mod = "v0.0.3"
